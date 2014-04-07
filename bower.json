@@ -1,0 +1,8 @@
+{
+  "name": "laravel-boilerplate",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "2.0.*",
+    "bootstrap-sass": "latest"
+  }
+}
